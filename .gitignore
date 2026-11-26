@@ -1,0 +1,23 @@
+
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+temp_imagenes/
+*.part
+
+# Modelos YOLO (archivos pesados)
+*.pt
+
+# Variables de entorno
+.env
